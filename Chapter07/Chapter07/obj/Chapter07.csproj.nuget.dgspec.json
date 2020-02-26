@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Programming13\\source\\repos\\Chapter07\\Chapter07\\Chapter07.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Programming13\\source\\repos\\Chapter07\\Chapter07\\Chapter07.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Programming13\\source\\repos\\Chapter07\\Chapter07\\Chapter07.csproj",
+        "projectName": "Chapter07",
+        "projectPath": "C:\\Users\\Programming13\\source\\repos\\Chapter07\\Chapter07\\Chapter07.csproj",
+        "packagesPath": "C:\\Users\\Programming13\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Programming13\\source\\repos\\Chapter07\\Chapter07\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Programming13\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
